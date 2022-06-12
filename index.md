@@ -24,3 +24,7 @@
 [Project html link](ETM58D_Project_-Solar-Panel-Forecasting-_Final_Version.html) 
 
 [Project R script link](ETM58D_Project_(Solar Panel Forecasting)_Final_Version.R)
+
+### Final
+[1.Dataset](covtypedata.ipynb)
+[2.Dataset](dataset2-final.ipynb)
