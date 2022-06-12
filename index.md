@@ -6,8 +6,14 @@
 ### Homework 1
 [Homework 2 link](https://moodle.boun.edu.tr/pluginfile.php/1035703/mod_resource/content/0/ETM58D_Spring22_HW2.pdf) 
 ### Homework 2
-[Homework 2 link](https://moodle.boun.edu.tr/pluginfile.php/1035703/mod_resource/content/0/ETM58D_Spring22_HW2.pdf) 
+[Homework 2 link](https://moodle.boun.edu.tr/pluginfile.php/1035703/mod_resource/content/0/ETM58D_Spring22_HW2.pdf)
+
 ### Homework 3
+
+[Homework 3 html link]()
+
+[Homework 3 R script link]()
+
 ### Homework 4
 
 [Homework 4 html link](Homework4.html)
