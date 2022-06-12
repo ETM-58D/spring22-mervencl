@@ -13,5 +13,5 @@
 [link](https://moodle.boun.edu.tr/login/)
 
 
-### Project 
+### Project Solar Power Forecasting
 [Project link] ()
