@@ -4,6 +4,12 @@ library(ggplot2)
 library(factoextra)
 library(cluster)
 
+#Read Movies with dividing two groups according to names & years, 
+#Adding column names Year and Title
+#Removing unnecessary variables which is Year
+#Rotate the data.frame so that the rows become the columns (Transpose)
+
+
 movies1 = read.csv("/Users/merve.oncel/Downloads/HW4_data/ETM58D_Spring22_HW4_movie_titles.txt", 
                    header=FALSE,sep="|")
 colnames(movies1) = c("Title")
