@@ -12,7 +12,7 @@
 
 [Homework 4 html link](Homework4.html)
 
-[Homework 4 R script link](Homework4.R))
+[Homework 4 R script link](Homework4.R)
 
 ### Project Solar Power Forecasting (Aslı Yılmaz, Okan Sayar, Merve Öncel)
 [Project html link](ETM58D_Project_-Solar-Panel-Forecasting-_Final_Version.html) 
