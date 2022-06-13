@@ -10,9 +10,9 @@
 
 ### Homework 3
 
-[Homework 3 html link]()
+[Homework 3 html link](HW3.html)
 
-[Homework 3 R script link]()
+[Homework 3 R script link](HW3.R)
 
 ### Homework 4
 
