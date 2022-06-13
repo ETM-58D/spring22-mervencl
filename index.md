@@ -27,4 +27,5 @@
 
 ### Final
 [1.Dataset](covtypedata.ipynb)
+[1.html](covtypedata.html)
 [2.Dataset](dataset2-final.ipynb)
